@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|c:\\users\\raiku\\source\\repos\\prn221\\chatmanagement\\userchatmanagement\\worker\\maileventworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|solutionrelative:userchatmanagement\\worker\\maileventworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|c:\\users\\raiku\\source\\repos\\prn221\\chatmanagement\\userchatmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|solutionrelative:userchatmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|c:\\users\\raiku\\source\\repos\\prn221\\chatmanagement\\userchatmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|solutionrelative:userchatmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|c:\\users\\raiku\\source\\repos\\prn221\\chatmanagement\\userchatmanagement\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|solutionrelative:userchatmanagement\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|c:\\users\\raiku\\source\\repos\\prn221\\chatmanagement\\userchatmanagement\\controllers\\applicationuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|solutionrelative:userchatmanagement\\controllers\\applicationuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|c:\\users\\raiku\\source\\repos\\prn221\\chatmanagement\\userchatmanagement\\controllers\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|solutionrelative:userchatmanagement\\controllers\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|c:\\users\\raiku\\source\\repos\\prn221\\chatmanagement\\userchatmanagement\\windowlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|solutionrelative:userchatmanagement\\windowlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|c:\\users\\raiku\\source\\repos\\prn221\\chatmanagement\\userchatmanagement\\userchatmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|solutionrelative:userchatmanagement\\userchatmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|c:\\users\\raiku\\source\\repos\\prn221\\chatmanagement\\userchatmanagement\\resetpasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|solutionrelative:userchatmanagement\\resetpasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|c:\\users\\raiku\\source\\repos\\prn221\\chatmanagement\\userchatmanagement\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|solutionrelative:userchatmanagement\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|c:\\users\\raiku\\source\\repos\\prn221\\chatmanagement\\userchatmanagement\\confirmwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|solutionrelative:userchatmanagement\\confirmwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|c:\\users\\raiku\\source\\repos\\prn221\\chatmanagement\\userchatmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|solutionrelative:userchatmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|c:\\users\\raiku\\source\\repos\\prn221\\chatmanagement\\userchatmanagement\\confirmwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|solutionrelative:userchatmanagement\\confirmwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|c:\\users\\raiku\\source\\repos\\prn221\\chatmanagement\\userchatmanagement\\viewmodels\\roomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|solutionrelative:userchatmanagement\\viewmodels\\roomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|c:\\users\\raiku\\source\\repos\\prn221\\chatmanagement\\userchatmanagement\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBA1A8D-90BB-48EE-8AC6-D005536552FA}|UserChatManagement\\UserChatManagement.csproj|solutionrelative:userchatmanagement\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUserDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\Controllers\\ApplicationUserDAO.cs",
+              "RelativeDocumentMoniker": "UserChatManagement\\Controllers\\ApplicationUserDAO.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\Controllers\\ApplicationUserDAO.cs",
+              "RelativeToolTip": "UserChatManagement\\Controllers\\ApplicationUserDAO.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:57:18.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\Controllers\\RoomDAO.cs",
+              "RelativeDocumentMoniker": "UserChatManagement\\Controllers\\RoomDAO.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\Controllers\\RoomDAO.cs",
+              "RelativeToolTip": "UserChatManagement\\Controllers\\RoomDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:57:17.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "UserChatManagement\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\MainWindow.xaml",
+              "RelativeToolTip": "UserChatManagement\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T03:35:42.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\App.xaml",
+              "RelativeDocumentMoniker": "UserChatManagement\\App.xaml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\App.xaml",
+              "RelativeToolTip": "UserChatManagement\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T03:16:14.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UserChatManagement\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UserChatManagement\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEABAAAAAAAAAAAAAEwBAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:15:28.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WindowLogin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\WindowLogin.xaml.cs",
+              "RelativeDocumentMoniker": "UserChatManagement\\WindowLogin.xaml.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\WindowLogin.xaml.cs",
+              "RelativeToolTip": "UserChatManagement\\WindowLogin.xaml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAACgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:14:25.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MailEventWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\Worker\\MailEventWorker.cs",
+              "RelativeDocumentMoniker": "UserChatManagement\\Worker\\MailEventWorker.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\Worker\\MailEventWorker.cs",
+              "RelativeToolTip": "UserChatManagement\\Worker\\MailEventWorker.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC0AAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:10:38.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\App.xaml.cs",
+              "RelativeDocumentMoniker": "UserChatManagement\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\App.xaml.cs",
+              "RelativeToolTip": "UserChatManagement\\App.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T02:55:56.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "UserChatManagement\\Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\Service\\EmailService.cs",
+              "RelativeToolTip": "UserChatManagement\\Service\\EmailService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:32:32.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResetPasswordWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\ResetPasswordWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UserChatManagement\\ResetPasswordWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\ResetPasswordWindow.xaml.cs",
+              "RelativeToolTip": "UserChatManagement\\ResetPasswordWindow.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:32:36.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserChatManagement",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\UserChatManagement.csproj",
+              "RelativeDocumentMoniker": "UserChatManagement\\UserChatManagement.csproj",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\UserChatManagement.csproj",
+              "RelativeToolTip": "UserChatManagement\\UserChatManagement.csproj",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAADIAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-18T03:10:05.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfirmWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\ConfirmWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UserChatManagement\\ConfirmWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\ConfirmWindow.xaml.cs",
+              "RelativeToolTip": "UserChatManagement\\ConfirmWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T02:55:53.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConfirmWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\ConfirmWindow.xaml",
+              "RelativeDocumentMoniker": "UserChatManagement\\ConfirmWindow.xaml",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\ConfirmWindow.xaml",
+              "RelativeToolTip": "UserChatManagement\\ConfirmWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T02:55:51.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoomViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\ViewModels\\RoomViewModel.cs",
+              "RelativeDocumentMoniker": "UserChatManagement\\ViewModels\\RoomViewModel.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\ViewModels\\RoomViewModel.cs",
+              "RelativeToolTip": "UserChatManagement\\ViewModels\\RoomViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T02:55:49.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "UserChatManagement\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\Raiku\\source\\repos\\PRN221\\ChatManagement\\UserChatManagement\\Models\\Message.cs",
+              "RelativeToolTip": "UserChatManagement\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T02:55:47.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
